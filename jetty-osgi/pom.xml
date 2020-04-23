@@ -90,7 +90,7 @@
       </dependency>
       <dependency>
         <groupId>org.eclipse.jetty</groupId>
-        <artifactId>jetty-websocket</artifactId>
+        <artifactId>jetty-websocket</artifactId> <!-- TODO: is this even right? -->
         <version>${project.version}</version>
       </dependency>
       <dependency>
